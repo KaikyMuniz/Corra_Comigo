@@ -1,4 +1,4 @@
-const btnRedirecionar = document.querySelector(#btnIntroducao);
+const btnRedirecionar = document.querySelector('#btnIntroducao');
 
 btnRedirecionar.addEventListener('click', Redirecionar);
 
