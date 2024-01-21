@@ -60,7 +60,6 @@ body{
     body{
         width: 100vw;
         background-position: center;
-        overflow-y: hidden;
     }
     
     .container-card-1{
